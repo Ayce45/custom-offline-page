@@ -9,12 +9,8 @@ Much better than the offline dynosaur...
 <img src="https://dev-to-uploads.s3.amazonaws.com/i/qpt943yulhhff7m5snq8.PNG" width="650px">
 
 ## Online case
-
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/4z2f1kac71suiweqdokp.PNG" width="650px" alt="onlineImage">
+![image](https://github.com/user-attachments/assets/f9fe70f7-9ce5-4f11-9435-18c4b78c185e)
 
 
 ## Offline case
-
-In the custom offline page we can provide useful details: company phone numbers or sales campaign details, for instance.
-
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/hacwp9ryknanwz1zgzun.PNG" width="650px" alt="customOffline">
+![image](https://github.com/user-attachments/assets/5f9c12bd-b095-4823-9740-6f600a4b6679)
