@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 0 16px;
+    text-align: center;
+    max-width: 960px;
+}
+
+h1 {
+    font-size: 32px;
+    margin: 16px 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.title {
+    flex: 1;
+}
+
+.status-online {
+    color: #008000;
+}
+
+.status-offline {
+    color: #db2721;
+}
